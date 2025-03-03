@@ -5,6 +5,12 @@
 	margin:auto;
 	text-align:center;
 	box-shadow:4px 4px 10px #888888;
+	display:flex;
+	justify-content:center;
+	
+}
+#card-info{
+ width:250px;
 	
 }
 
